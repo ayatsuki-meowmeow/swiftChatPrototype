@@ -2,8 +2,6 @@
 //  ContentView.swift
 //  ChatPrototype
 //
-//  Created by 河野礼嗣 on 2024/07/02.
-//
 
 import SwiftUI
 
@@ -13,7 +11,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("First Change")
         }
         .padding()
     }
