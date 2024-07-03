@@ -2,18 +2,18 @@
 //  ContentView.swift
 //  ChatPrototype
 //
-//  Created by 河野礼嗣 on 2024/07/02.
-//
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("コンコン")
+                .padding()
+                .background(Color.green, in: RoundedRectangle(cornerRadius: 8))
+            Text("誰かいますか？")
+                .padding()
+                .background(Color.teal, in: RoundedRectangle(cornerRadius: 8))
         }
         .padding()
     }

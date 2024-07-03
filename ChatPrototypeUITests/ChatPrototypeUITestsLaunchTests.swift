@@ -2,8 +2,6 @@
 //  ChatPrototypeUITestsLaunchTests.swift
 //  ChatPrototypeUITests
 //
-//  Created by 河野礼嗣 on 2024/07/02.
-//
 
 import XCTest
 

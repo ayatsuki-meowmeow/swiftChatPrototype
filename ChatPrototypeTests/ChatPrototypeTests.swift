@@ -2,8 +2,6 @@
 //  ChatPrototypeTests.swift
 //  ChatPrototypeTests
 //
-//  Created by 河野礼嗣 on 2024/07/02.
-//
 
 import XCTest
 @testable import ChatPrototype
